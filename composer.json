@@ -12,7 +12,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Overblog\\GraphQLBundle\\": ""
+            "elmpp\\GraphQLBundle\\": ""
         },
         "exclude-from-classmap": [
             "/Tests/"
