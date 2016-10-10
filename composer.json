@@ -1,5 +1,5 @@
 {
-    "name": "overblog/graphql-bundle",
+    "name": "elmpp/graphql-bundle",
     "type": "symfony-bundle",
     "license": "MIT",
     "description": "This bundle provides tools to build a GraphQL server in your Symfony App.",
